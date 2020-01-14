@@ -1,0 +1,15 @@
+Package: Mouse.gmt.HGNC
+Type: Package
+Title: gmt file from HGNC where Gene Family is a gene set
+Version: 0.1.0
+Author: c(
+    person("Hunter", "Eby", email="huntereby66@gmail.com", role = c("aut", "cre"))
+    )
+Maintainer: Hunter Eby <huntereby66@gmail.com>
+Description: Gmt file contatin the gene family as a geneset from HGNC.
+Depends: R (>= 3.6.1)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/huntereby/Mouse.gmt.HGNC
+RoxygenNote: 7.0.2
